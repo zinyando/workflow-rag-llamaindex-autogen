@@ -2,7 +2,7 @@
 
 ## Blog post
 
-  [The Building Blocks of Modern AI: Exploring LlamaIndex Workflows]()
+  [A Beginner's Guide to LlamaIndex Workflows](https://www.zinyando.com/a-beginners-guide-to-llamaindex-workflows/)
 
 ## Installation
 
